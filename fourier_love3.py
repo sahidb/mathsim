@@ -5,7 +5,7 @@ import sys
 
 # ── KONFIGURASI ─────────────────────────────────────────────────────────────
 WINDOW_WIDTH, WINDOW_HEIGHT = 600, 600
-FPS                        = 60
+FPS                        = 30
 NUM_SAMPLES                = 1000   # jumlah titik sampel pada kurva
 TIME_SCALE                 = 1     # multiplier kecepatan animasi
 SCALE_X                    = -1    # flip horizontal jika perlu
